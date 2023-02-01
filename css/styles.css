@@ -1,5 +1,5 @@
 body {
-  color: #040514E;
+  color: #040514;
   text-align: center;
   margin: 0;
   font-family: 'Montserrat', sans-serif;
@@ -70,13 +70,12 @@ p {
 .skill-row {
   width: 50%;
   margin: auto;
-  text-align: left;
+  text-align: center;
   margin-bottom: 120px;
 }
 
 .code-img {
   float: left;
-  margin-right: 30px;
 }
 
 .contact-me {
